@@ -1,4 +1,4 @@
-# Custom Shell in C++ with Custom Vector and Map Templates
+# Custom Shell in C++ with Custom Vector and Map
 
 This project showcases:
 * Custom Vector Template (Vector<T>): A dynamic array implementation from scratch.
